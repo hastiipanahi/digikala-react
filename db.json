@@ -8,18 +8,18 @@
     "logo":[
         {
             "id":2,
-            "img":"/src/images/logo.svg",
-            "img1":"/src/images/svg/search.svg",
+            "img":"https://hastiipanahi.github.io/digikala-react/src/images/logo.svg",
+            "img1":"https://hastiipanahi.github.io/digikala-react/src/images/svg/search.svg",
             "text":"جستجو",
-            "img2":"/src/images/svg/arrow.svg",
+            "img2":"https://hastiipanahi.github.io/digikala-react/src/images/svg/arrow.svg",
             "text1":"ورود | ثبت نام",
-            "img3":"/src/images/svg/shoping.svg"
+            "img3":"https://hastiipanahi.github.io/digikala-react/src/images/svg/shoping.svg"
         }
     ],
     "mega":[
         {
             "id":1,
-            "img":"/src/images/svg/bar.svg",
+            "img":"https://hastiipanahi.github.io/digikala-react/src/images/svg/bar.svg",
             "text":"دسته بندی کالاها","dropdown":[
               {
                 "id": 2,
@@ -430,7 +430,7 @@
             
         },
         { "id":"87",
-          "img": "/src/images/svg/shegeft.svg",
+          "img": "https://hastiipanahi.github.io/digikala-react/src/images/svg/shegeft.svg",
           "text": "شگفت انگیزها"
         },
         {   "id":88,
@@ -441,11 +441,11 @@
         },
            
         {  "id":90,
-           "img": "/src/images/svg/mah.svg", 
+           "img": "https://hastiipanahi.github.io/digikala-react/src/images/svg/mah.svg", 
         "text": "پر فروش ترین ها" 
         },
         {  "id":91,
-          "img": "/src/images/svg/lebas.svg",
+          "img": "https://hastiipanahi.github.io/digikala-react/src/images/svg/lebas.svg",
           "text": "دیجی استایل"
         },
         {  "id":92,
@@ -473,48 +473,48 @@
     "category":[
       {
         "id": 1,
-        "img": "/src/images/image-1.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-1.png",
         "text":"سوپر مارکت"
       },
       {
         "id": 2,
-        "img": "/src/images/image-2.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-2.png",
         "text":"طلا و نقره دیجیتال"
 
       },
       {
         "id": 3,
-        "img": "/src/images/image-3.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-3.png",
         "text":"حراج دیجی استایل"
       },
       {
         "id": 4,
-        "img": "/src/images/image-4.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-4.png",
         "text":"سوپر مارکت"
       },
       {
         "id": 5,
-        "img": "/src/images/image-5.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-5.png",
         "text":"حراج دیجی استایل"
       },
       {
         "id": 6,
-        "img": "/src/images/image-6.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-6.png",
         "text":"طلا و نقره دیجیتال"
       },
       {
         "id": 7,
-        "img": "/src/images/image-7.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-7.png",
         "text":"دیجی کارت"
       },
       {
         "id": 8,
-        "img": "/src/images/image-1.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-1.png",
         "text":"طلا و نقره دیجیتال"
       },
       {
         "id": 9,
-        "img": "/src/images/image-2.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-2.png",
         "text":"حراج دیجی استایل"
       }
     ],
@@ -522,93 +522,93 @@
       
       {
         "id": 1,
-        "img": "/src/images/image-8.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-8.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "53%",
         "text2": "1900000",
         "text3": "4500000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 2,
-        "img": "/src/images/image-9.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-9.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "20%",
         "text2": "300000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 3,
-        "img": "/src/images/image-10.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-10.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "35%",
         "text2": "7800000",
         "text3": "4400000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 4,
-        "img": "/src/images/image-8.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-8.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "12%",
         "text2": "9800000",
         "text3": "3200000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 5,
-        "img": "/src/images/image-9.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-9.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "88%",
         "text2": "4500000",
         "text3": "1200000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 6,
-        "img": "/src/images/image-10.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-10.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "53%",
         "text2": "1900000",
         "text3": "4500000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 7,
-        "img": "/src/images/image-8.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-8.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "53%",
         "text2": "1900000",
         "text3": "4500000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 8,
-        "img": "/src/images/image-9.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-9.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "53%",
         "text2": "1900000",
         "text3": "4500000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 9,
-        "img": "/src/images/image-10.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-10.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "53%",
         "text2": "1900000",
         "text3": "4500000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 10,
-        "img": "/src/images/image-10.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-10.png",
         "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
         "text1": "53%",
         "text2": "1900000",
         "text3": "4500000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       }
     ],
     "picture":[
@@ -639,14 +639,14 @@
         "text3": "820000"
       },
       {  "id":2,
-        "img": "/src/images/image-12.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-12.png",
         "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
         "text1": "29%",
         "text2": "1700000",
         "text3": "820000"
       },
       {  "id":3,
-        "img": "/src/images/image-11.jpg",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-11.jpg",
         "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
         "text1": "29%",
         "text2": "1700000",
@@ -654,7 +654,7 @@
         
       },
       {  "id":4,
-        "img": "/src/images/image-10.jpg",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-10.jpg",
         "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
         "text1": "29%",
         "text2": "1700000",
@@ -779,7 +779,7 @@
         "text1":"39%",
         "text2":"1700000",
         "text3":"1300000",
-        "img1":"/src/images/svg/toman.svg"
+        "img1":"https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 2,
@@ -788,7 +788,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 3,
@@ -797,7 +797,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 4,
@@ -806,7 +806,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 5,
@@ -815,7 +815,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 6,
@@ -824,7 +824,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 7,
@@ -833,7 +833,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 8,
@@ -842,7 +842,7 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       },
       {
         "id": 9,
@@ -851,26 +851,26 @@
         "text1": "39%",
         "text2": "1700000",
         "text3": "1300000",
-        "img1": "/src/images/svg/toman.svg"
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toman.svg"
       }
     ],
     "final":[
       {
         "id":1,
-        "img":"/src/images/logo.svg",
+        "img":"https://hastiipanahi.github.io/digikala-react/src/images/logo.svg",
         "text":"بازگشت به بالا",
         "text1":"تلفن پشتیبانی ۶۱۹۳۰۰۰۰ - ۰۲۱",
         "text2":"۰۲۱-۹۱۰۰۰۱۰۰",
         "text3":"۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم",
-        "img1":"/src/images/svg/experes.svg",
+        "img1":"https://hastiipanahi.github.io/digikala-react/src/images/svg/experes.svg",
         "text4":"اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس",
-        "img2":"/src/images/svg/pardakht.svg",
+        "img2":"https://hastiipanahi.github.io/digikala-react/src/images/svg/pardakht.svg",
         "text5":"امکان پرداخت در محل",
-        "img3":"/src/images/svg/hafte.svg",
+        "img3":"https://hastiipanahi.github.io/digikala-react/src/images/svg/hafte.svg",
         "text6":"۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
-        "img4":"/src/images/svg/asl.svg",
+        "img4":"https://hastiipanahi.github.io/digikala-react/src/images/svg/asl.svg",
         "text7":"هفت روز ضمانت بازگشت کالا",
-        "img5":"/src/images/svg/bazgasht.svg",
+        "img5":"https://hastiipanahi.github.io/digikala-react/src/images/svg/bazgasht.svg",
         "text8":"ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
       }
     ],
@@ -896,12 +896,12 @@
         "text15": "فرصت‌های شغلی",
         "text16": "درباره دیجی‌کالا",
         "text17": "همراه ما باشید!",
-        "img": "/src/images/svg/tik.svg",
-        "img1": "/src/images/svg/in.svg",
-        "img2": "/src/images/svg/final11.svg",
-        "img3": "/src/images/svg/toeet.svg",
-        "img4": "/src/images/svg/final111.svg",
-        "img5":"/src/images/svg/final11.svg",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/svg/tik.svg",
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/svg/in.svg",
+        "img2": "https://hastiipanahi.github.io/digikala-react/src/images/svg/final11.svg",
+        "img3": "https://hastiipanahi.github.io/digikala-react/src/images/svg/toeet.svg",
+        "img4": "https://hastiipanahi.github.io/digikala-react/src/images/svg/final111.svg",
+        "img5":"https://hastiipanahi.github.io/digikala-react/src/images/svg/final11.svg",
         "text18":"با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید",
         "text19":"ایمیل شما",
         "text20":"ثبت"
@@ -911,7 +911,7 @@
     "donload":[
       {
         "id":1,
-        "img":"/src/images/logo-digi.jpg",
+        "img":"https://hastiipanahi.github.io/digikala-react/src/images/logo-digi.jpg",
         "text":" دانلود اپلیکیشن دیجی‌کالا",
         "img1":"https://www.digikala.com/statics/img/svg/appStores/coffe-bazzar.svg",
         "img2":"https://www.digikala.com/statics/img/svg/appStores/myket.svg",
@@ -931,8 +931,8 @@
       {
         "id": 1,
         "img": "https://dkstatics-public.digikala.com/digikala-static/4801e91f7b612493262538e3fad2d1d268f7e9f0_1758969413.svg",
-        "img1": "/src/images/image-20.svg",
-        "img2": "/src/images/image-21.svg",
+        "img1": "https://hastiipanahi.github.io/digikala-react/src/images/image-20.svg",
+        "img2": "https://hastiipanahi.github.io/digikala-react/src/images/image-21.svg",
         "img3": "https://www.digikala.com/statics/img/svg/footer/digiclub.svg",
         "img4":"https://www.digikala.com/statics/img/svg/footer/jet.svg",
         "img5":"https://www.digikala.com/statics/img/svg/footer/digiMehr.svg",
@@ -954,27 +954,27 @@
     "barm":[
       {
         "id": 1,
-        "img": "/src/images/image-mo.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo.png",
         "text": "سرویس ها"
       },
       {
         "id": 2,
-        "img": "/src/images/image-mo1.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo1.png",
         "text": "دیجی کالا"
       },
       {
         "id": 3,
-        "img": "/src/images/image-mo2.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo2.png",
         "text": "سوپر مارکت"
       },
       {
         "id": 4,
-        "img": "/src/images/image-mo3.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo3.png",
         "text": "طلا و نقره"
       },
       {
         "id": 5,
-        "img": "/src/images/image-mo4.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo4.png",
         "text": "بازار"
       }
     ],
@@ -982,7 +982,7 @@
       {
         "id":1,
         "text":"جستجو در",
-        "img":"/src/images/svg/camera.svg",
+        "img":"https://hastiipanahi.github.io/digikala-react/src/images/svg/camera.svg",
         "text1":"دیجی کالا",
         "text2":"انتخاب آدرس"
       }
@@ -990,7 +990,7 @@
     "shegeftmobile":[
       {
         "id":1,
-        "img":"/src/images/image-mo5.png",
+        "img":"https://hastiipanahi.github.io/digikala-react/src/images/image-mo5.png",
         "text":"لیزر پوینتر کینگ لیزر مدل YL-303",
         "text1":"33%",
         "text2":"120000",
@@ -998,7 +998,7 @@
       },
       {
         "id": 2,
-        "img": "/src/images/image-mo5.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo5.png",
         "text": "لیزر پوینتر کینگ لیزر مدل YL-303",
         "text1": "33%",
         "text2": "120000",
@@ -1006,7 +1006,7 @@
       },
       {
         "id": 3,
-        "img": "/src/images/image-mo5.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo5.png",
         "text": "لیزر پوینتر کینگ لیزر مدل YL-303",
         "text1": "33%",
         "text2": "120000",
@@ -1014,7 +1014,7 @@
       },
       {
         "id": 4,
-        "img": "/src/images/image-mo5.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-mo5.png",
         "text": "لیزر پوینتر کینگ لیزر مدل YL-303",
         "text1": "33%",
         "twxt2": "120000",
@@ -1024,7 +1024,7 @@
     "adresmobile":[
       {
         "id":1,
-        "img":"/src/images/image-10.jpg",
+        "img":"https://hastiipanahi.github.io/digikala-react/src/images/image-10.jpg",
         "text":"هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
         "text1":"40%",
         "text2":"200000",
@@ -1033,7 +1033,7 @@
       },
        {
          "id": 2,
-         "img": "/src/images/image-11.jpg",
+         "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-11.jpg",
          "text": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
          "text1": "40%",
          "text2": "200000",
@@ -1041,7 +1041,7 @@
        },
         {
           "id": 3,
-          "img": "/src/images/image-10.jpg",
+          "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-10.jpg",
           "text": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
           "text1": "40%",
           "text2": "200000",
@@ -1049,7 +1049,7 @@
         },
          {
            "id": 4,
-           "img": "/src/images/image-11.jpg",
+           "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-11.jpg",
            "text": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
            "text1": "40%",
            "text2": "200000",
@@ -1059,7 +1059,7 @@
     "vitaminmobile":[
       {
         "id": 1,
-        "img": "/src/images/image-11.jpg",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-11.jpg",
         "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
         "text1": "31%",
         "text2": "540000",
@@ -1067,7 +1067,7 @@
       },
       {
         "id": 2,
-        "img": "/src/images/image-12.png",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-12.png",
         "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
         "text1": "31%",
         "text2": "540000",
@@ -1075,7 +1075,7 @@
       },
       {
         "id": 3,
-        "img": "/src/images/image-11.jpg",
+        "img": "https://hastiipanahi.github.io/digikala-react/src/images/image-11.jpg",
         "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
         "text1": "31%",
         "text2": "540000",
@@ -1086,10 +1086,10 @@
        {
          "id": 1,
          "text": "رفتن به بالا",
-         "img": "/src/images/svg/rabet.svg",
+         "img": "https://hastiipanahi.github.io/digikala-react/src/images/svg/rabet.svg",
          "text1": "۷ روز هفته، ۲۴ ساعت",
          "text2": "تماس",
-         "img1": "/src/images/logo-digi.jpg",
+         "img1": "https://hastiipanahi.github.io/digikala-react/src/images/logo-digi.jpg",
          "text3": "تجربه خرید بهتر در",
          "text4": "دانلود",
          "text5": "با دیجی کالا",
@@ -1099,7 +1099,7 @@
          "text9": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران",
          "text10": "دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود. این روزها ",
          "text11": "مشاهده بیشتر",
-         "img2": "/src/images/logo-digi.jpg",
+         "img2": "https://hastiipanahi.github.io/digikala-react/src/images/logo-digi.jpg",
          "text12": "تجربه خرید بهتر",
          "text13": "دانلود",
          "text14": "خانه",
