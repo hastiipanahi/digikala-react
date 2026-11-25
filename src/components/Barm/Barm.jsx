@@ -8,10 +8,10 @@ const Barm = () => {
   const fetchBarm = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/barm",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setBarm(res));
+      dispatch(setBarm(res.barm));
     } catch (error) {
       console.log(error.message);
     }

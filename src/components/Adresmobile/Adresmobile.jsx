@@ -21,10 +21,10 @@ const Adresmobile = () => {
   const fetchAdresmobile = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/adresmobile",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setAdresmobile(res));
+      dispatch(setAdresmobile(res.adresmobile));
     } catch (error) {
       console.log(error.message);
     }
