@@ -20,10 +20,10 @@ const Adres = () => {
   const fetchAdres = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/adres",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setAdres(res));
+      dispatch(setAdres(res.adres));
     } catch (error) {
       console.log(error.message);
     }

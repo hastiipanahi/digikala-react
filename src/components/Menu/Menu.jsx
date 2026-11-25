@@ -8,10 +8,10 @@ const Menu = () => {
   const fetchMenu = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/menu",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setMenu(res));
+      dispatch(setMenu(res.menu));
     } catch (error) {
       console.log(error.message);
     }

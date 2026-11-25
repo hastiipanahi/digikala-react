@@ -639,14 +639,14 @@
         "text3": "820000"
       },
       {  "id":2,
-        "img": "./src/images/image-12.png",
+        "img": "/src/images/image-12.png",
         "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
         "text1": "29%",
         "text2": "1700000",
         "text3": "820000"
       },
       {  "id":3,
-        "img": "./src/images/image-11.jpg",
+        "img": "/src/images/image-11.jpg",
         "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
         "text1": "29%",
         "text2": "1700000",
@@ -654,7 +654,7 @@
         
       },
       {  "id":4,
-        "img": "./src/images/image-10.jpg",
+        "img": "/src/images/image-10.jpg",
         "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
         "text1": "29%",
         "text2": "1700000",

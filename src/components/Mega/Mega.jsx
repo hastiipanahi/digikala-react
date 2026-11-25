@@ -8,10 +8,10 @@ const Mega = () => {
   const fetchMega = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/mega",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setMega(res));
+      dispatch(setMega(res.mega));
     } catch (error) {
       console.log(error.message);
     }

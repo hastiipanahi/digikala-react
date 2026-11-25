@@ -8,10 +8,11 @@ const Picture = () => {
   const fetchPicture = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/picture",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setPicture(res));
+      
+      dispatch(setPicture(res.picture));
     } catch (error) {
       console.log(error.message);
     }
