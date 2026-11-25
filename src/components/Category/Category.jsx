@@ -8,10 +8,10 @@ const Category = () => {
   const fetchCategory = async () => {
     try {
       const data = await fetch(
-        "https://hastiipanahi.github.io/digikala-react/db.json/category",
+        "https://hastiipanahi.github.io/digikala-react/db.json",
       );
       const res = await data.json();
-      dispatch(setCategory(res));
+      dispatch(setCategory(res.category));
     } catch (error) {
       console.log(error.message);
     }
