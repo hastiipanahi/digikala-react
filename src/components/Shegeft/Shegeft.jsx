@@ -11,27 +11,27 @@ import "./styles.css";
 // import required modules
 import { Pagination } from "swiper/modules";
 import { useDispatch, useSelector } from "react-redux";
-import{setShegeft} from "../Redux/Shegeft/Action"
-import Image from "../../images/svg/percent.svg"
-import Image1 from "../../images/svg/shgeft2.svg"
+import { setShegeft } from "../Redux/Shegeft/Action";
+import Image from "../../images/svg/percent.svg";
+import Image1 from "../../images/svg/shgeft2.svg";
 
 const Shegeft = () => {
-  const dispatch=useDispatch()
-  const{shegeft}=useSelector((state)=>state.shegeft)
-  const fetchShegeft=async()=>{
+  const dispatch = useDispatch();
+  const { shegeft } = useSelector((state) => state.shegeft);
+  const fetchShegeft = async () => {
     try {
-      const data = await fetch("http://localhost:3000/shegeft");
-      const res=await data.json()
-      dispatch(setShegeft(res))
-
+      const data = await fetch(
+        "https://hastiipanahi.github.io/digikala-react/db.json/shegeft",
+      );
+      const res = await data.json();
+      dispatch(setShegeft(res));
     } catch (error) {
       console.log(error.message);
-      
     }
-  }
-  useEffect(()=>{
-    fetchShegeft()
-  },[])
+  };
+  useEffect(() => {
+    fetchShegeft();
+  }, []);
   return (
     <div className="w-full h-120 pt-8 flex md:block hidden relative left-20">
       <div className="w-64 h-112 p-20 bg-red-500 mr-32 rounded-tr-lg rounded-br-lg">
@@ -88,7 +88,6 @@ const Shegeft = () => {
                       </div>
                       <div className="mr-20 mt-3">
                         <h5>{item.text3}</h5>
-                        
                       </div>
                     </div>
                   </a>

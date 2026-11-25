@@ -19,7 +19,9 @@ const Vitaminmobile = () => {
   const { vitaminmobile } = useSelector((state) => state.vitaminmobile);
   const fetchVitaminmobile = async () => {
     try {
-      const data = await fetch("http://localhost:3000/vitaminmobile");
+      const data = await fetch(
+        "https://hastiipanahi.github.io/digikala-react/db.json/vitaminmobile",
+      );
       const res = await data.json();
       dispatch(setVitaminmobile(res));
     } catch (error) {
@@ -51,14 +53,16 @@ const Vitaminmobile = () => {
           modules={[Pagination]}
           className="mySwiper"
         >
-          {vitaminmobile.map((item)=>{
+          {vitaminmobile.map((item) => {
             return (
               <SwiperSlide className="">
                 <div className="">
                   <img className="" src={item.img} alt="" />
                   <h6 className="w-36 line-clamp-2 text-[14px]">{item.text}</h6>
                   <div className="flex gap-1 mt-3 text-[14px]">
-                    <h6 className="w-10 h-6 bg-red-600 rounded-2xl flex justify-center items-center text-white mr-10">{item.text1}</h6>
+                    <h6 className="w-10 h-6 bg-red-600 rounded-2xl flex justify-center items-center text-white mr-10">
+                      {item.text1}
+                    </h6>
                     <h6>{item.text2}</h6>
                   </div>
                   <h6 className="mr-10 text-[14px]">{item.text3}</h6>
@@ -66,7 +70,6 @@ const Vitaminmobile = () => {
               </SwiperSlide>
             );
           })}
-         
         </Swiper>
       </div>
     </div>
